@@ -1,0 +1,6 @@
+# raw and downloaded data (re-download from the MLQE-PE repository)
+data/
+
+__pycache__/
+.vscode/
+preview.csv
